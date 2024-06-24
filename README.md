@@ -4,6 +4,7 @@
 
 Files included in repository:
 - Cleaned csv. files used for analysis
+ - Exceptions: sec_heartrate files were too large to upload
 - SQL script
 - ipynb of Case Study notebook on Kaggle
 
